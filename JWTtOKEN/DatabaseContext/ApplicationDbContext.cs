@@ -14,5 +14,6 @@ namespace JWT_Authentication.DatabaseContext
 
         }
         public DbSet<TblCustomer> tblCustomers { get; set; }
+        public DbSet<TblUser> tblUsers { get; set; }
     }
 }

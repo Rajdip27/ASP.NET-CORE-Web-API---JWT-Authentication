@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using JWT_Authentication.DatabaseContext;
 using JWT_Authentication.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace JWTtOKEN.Controllers
 {
+    [Authorize]
     [Route("/[controller]/[action]")]
     [ApiController]
     public class CustomersController : ControllerBase

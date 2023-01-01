@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S1NXBcxB8mM7PEAgIfu1KGKtWhIyQd4HJIyC0FXjjhT1ZQT4BNhMJjJNb7dVchjXA8StimhaDi5ARp5yNcfqEQ==",
+  "dgSpecHash": "pWTs6ebcnl/d4ALKPEWXGZG9eivmKTqabJ/itg3OaW4DZC219WCLVKrjo6UdEJbOoGFwXJkFQkliEUZ+vpR/uQ==",
   "success": true,
   "projectFilePath": "E:\\Api\\JWTtOKEN\\JWTtOKEN\\JWTtOKEN.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Santnu\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Santnu\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Santnu\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Santnu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",
     "C:\\Users\\Santnu\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\Santnu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Santnu\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
